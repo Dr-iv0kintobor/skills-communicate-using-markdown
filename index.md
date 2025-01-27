@@ -10,3 +10,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Join Robotics club
+- [ ] Learn coding, wiring, and other mechatronics skills
+- [ ] Begin dream career 
